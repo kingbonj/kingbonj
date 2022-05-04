@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @kingbonj
+- 👀 I’m interested in Codeine
+- 🌱 I’m currently learning Shell, Java, Python 
